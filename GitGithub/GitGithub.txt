@@ -13,4 +13,6 @@ Git add .:No terminal, o comando git add . adiciona todas as alterações nos ar
 (novos, modificados ou excluídos) à área de stage, 
 preparando-os para o próximo commit.
 
-Git commit -m "atualizacao":
+Git commit -m "atualizacao":No terminal, o comando git commit -m "Atualizacao" salva as 
+alterações adicionadas à área de stage no histórico do Git, criando um novo commit 
+com a mensagem "Atualizacao".
