@@ -1,0 +1,30 @@
+1  power
+    2  sudo
+    3  sudo apt update 
+    4  sudo apt upgrade
+    5  sudo apt autremove
+    6  sudo apt autoremove
+    7  sudo apt autoclean
+    8  sudo reboot
+    9  sudo apt install brave
+   10  curl -fsS https://dl.brave.com/install.sh | sh
+   11  sudo apt install linux-oem-24.04b
+   12  sudo reboot
+   13  sudo apt aupdate
+   14  sudo apt install git
+   15  sudo apt install git vim
+   16  sudo apt install kolourpaint
+   17  sudo apt install notepadçç
+   18  sudo apt install notepad
+   19  sudo apt install vlc
+   20  sudo apt install audacity 
+   21  sudo apt install kazam
+   22  sudo apt install notepadqq
+   23  git
+   24  git config --global usar.name "luan"
+   25  git config --global user.email 
+   26  git config --list
+   27  exit
+   28  git clone https://github.com/Luan576/senac-tat
+   29  exit
+   30  history
