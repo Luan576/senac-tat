@@ -16,3 +16,7 @@ preparando-os para o próximo commit.
 Git commit -m "atualizacao":No terminal, o comando git commit -m "Atualizacao" salva as 
 alterações adicionadas à área de stage no histórico do Git, criando um novo commit 
 com a mensagem "Atualizacao".
+
+Git push:o terminal, o comando git push envia os commits do repositório local 
+para o repositório remoto, 
+atualizando a branch remota com as mudanças realizadas localmente.
