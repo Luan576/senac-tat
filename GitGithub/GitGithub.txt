@@ -1,0 +1,16 @@
+Git pull:No terminal, o comando git pull baixa as alterações do repositório remoto 
+e as mescla automaticamente na branch atual do repositório local. Ele equivale a 
+executar git fetch seguido de git merge, atualizando o código 
+local com as mudanças feitas por outros colaboradores.
+
+Git status:No terminal, o comando git status exibe o estado atual do repositório Git. Ele mostra:
+Arquivos modificados, adicionados ou excluídos.
+Arquivos preparados para commit (staged).
+Branch atual e se está atualizada com o repositório remoto.
+Mensagens sobre commits pendentes ou necessidade de git add/git commit.
+
+Git add .:No terminal, o comando git add . adiciona todas as alterações nos arquivos 
+(novos, modificados ou excluídos) à área de stage, 
+preparando-os para o próximo commit.
+
+Git commit -m "atualizacao":
